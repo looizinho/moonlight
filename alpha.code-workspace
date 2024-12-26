@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "hardware/esp32-alpha"
+		},
+		{
+			"path": "webapp-alpha"
+		}
+	],
+	"settings": {
+		"github.copilot.chat.localeOverride": "pt-br"
+	}
+}
